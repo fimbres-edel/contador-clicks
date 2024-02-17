@@ -1,0 +1,24 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(209, 14, 160);
+    border: 2px solid #fff;
+    border-radius: 15px;
+    margin: 10px;
+    cursor: cell;
+}
+
+button:hover{
+    background-color: black;
+}
+
+.button-click{
+    background-color: bisque;
+
+}
+.button-reiniciar{
+    background-color: chartreuse;
+
+}
